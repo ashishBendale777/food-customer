@@ -1,0 +1,32 @@
+.all-cards {
+    height: 440px;
+    margin-top: 20px;
+}
+.mimg{
+    height: 250px;
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mtext{
+    display: flex;
+    left: 10px;
+    right: 10px;
+    color: #000;
+}
+.msubtitle{
+        display: flex;
+        align-items: center;
+}
+
+* {
+  /* margin: 0; */
+  /* padding: 5px; */
+}
+.contents-div{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 6px;
+  row-gap: 40px;
+}

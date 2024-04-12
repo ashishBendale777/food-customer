@@ -1,0 +1,13 @@
+.dark-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-button:hover {
+    background-color: #555;
+    color: #ffcc00;
+}

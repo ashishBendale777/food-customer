@@ -1,0 +1,12 @@
+.dark {
+    background-color: blueviolet;
+    color: white;
+}
+
+* {
+    /* padding: 0;
+    margin: 0; */
+    text-align: center;
+    /* margin-left: 50%; */
+    /* box-sizing: border-box; */
+}

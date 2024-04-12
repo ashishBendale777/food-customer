@@ -1,0 +1,10 @@
+.dark{
+    background-color: blueviolet;
+}
+.light{
+    background-color: white;
+}
+*{
+    text-align: center;
+    margin-left: 50%;
+}

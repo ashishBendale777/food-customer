@@ -50,11 +50,9 @@ const Login = () => {
             placeholder="Password"
             onChange={(e) => setPassword(e.target.value)}
           />
-          <input
-            type="login"
-            placeholder="Login"
+          <button
             onClick={() => addCustomers()}
-          />
+          >Login</button>
           <p>Don't have an account
             <Link className="navlink" to="/register">Register</Link>
           </p>

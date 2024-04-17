@@ -143,7 +143,7 @@
   width: 250px;
   border-color: #04fb6b;
 }
-.box-login input[type="login"] {
+.box-login button {
   border: 0;
   background: none;
   margin: 20px auto;
@@ -157,6 +157,6 @@
   transition: 0.25s;
   cursor: pointer;
 }
-.box-login input[type="login"]:hover {
+.box-login button:hover {
   background: #04fb6b;
 }

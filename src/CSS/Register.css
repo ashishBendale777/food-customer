@@ -68,7 +68,7 @@ h4 {
   border-color: #04fb6b;
 }
 
-.box-register input[type='submit'] {
+.box-register button {
   border: 0;
   background: none;
   margin: 20px auto;
@@ -84,6 +84,6 @@ h4 {
   cursor: pointer;
 }
 
-.box-register input[type='submit']:hover {
+.box-register button:hover {
   background: #04fb6b;
 }
